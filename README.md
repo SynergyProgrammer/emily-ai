@@ -1,0 +1,2 @@
+# emily-ai
+Dsicord Bot
