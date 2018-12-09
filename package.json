@@ -1,11 +1,15 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "*********",
   "version": "0.0.0",
-  "main": "emily.js",
+  "private": true,
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.5.x"
+  },
   "scripts": {
     "start": "node emily.js"
   },
   "dependencies": {
-    "discord.js": "11.1.0",
-  }
+    "body-parser": "^1.13.3",
+    ...
+}
